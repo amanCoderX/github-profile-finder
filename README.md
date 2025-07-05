@@ -20,3 +20,9 @@ A web application that allows users to search for any GitHub profile using the G
 - CSS3
 - JavaScript
 - GitHub REST API
+
+  ---
+
+  ### 🚀 Live Demo:
+👉 [Click here to view](https://github-profile-finder-amanmaner.netlify.app/)
+
