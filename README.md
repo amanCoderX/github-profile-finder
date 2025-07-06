@@ -23,6 +23,20 @@ A web application that allows users to search for any GitHub profile using the G
 
   ---
 
+ ## 📸 Screenshots
+
+### 🧑‍💻 GitHub Profile Finder UI
+![GitHub Profile Finder UI](screenshots/github-profile-finder-ui.png)
+
+### ✅ Profile Opened Successfully
+![Profile Find Successfully](screenshots/profile-find-open-successfully.png)
+
+### 🔍 Searched Profile View
+![Searched Profile](screenshots/searched-profile.png)
+
+
+---
+
   ### 🚀 Live Demo:
 👉 [Click here to view](https://github-profile-finder-amanmaner.netlify.app/)
 
